@@ -10,7 +10,7 @@
 
 <h2>03 - Projects</h2>
 <p>Current project: Yarn Website </p> 
-  <p>link: [   ]</p>
+  <p>link: (https://github.com/VGordner18/YarnWebsite)</p>
 
 <h2>04 - Languages Used</h2>
 <p>[] HTML</p>
