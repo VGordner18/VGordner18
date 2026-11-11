@@ -1,6 +1,21 @@
 <h1 align="center">V Gordner</h1>
-<h3 align="center">I'm a web design student at Anoka Technical College.</h3>
+<h2 align="center">Front-End Web Developer</h2>
 
+<h2>01 - Education</h2>
+<h3>Anoka Technical College - 2025 - Present</h3>
+<p> Web Development Major - IT Certificate</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+<h2>02 - Focus</h2>
+<p>Front-End Development with HTML, CSS, and JavaScript.</p>
+
+<h2>03 - Projects</h2>
+<p>Current project: Yarn Website </p> 
+  <p>link: [   ]</p>
+
+<h2>04 - Languages Used</h2>
+<p>[] HTML</p>
+<p>[] CSS</p>
+<p>[] JavaScript</p>
+
+<h2>Certificates</h2>
+<img width="553" height="432" alt="Your paragraph text" src="https://github.com/user-attachments/assets/19cf288c-e9fa-43e7-a38e-0785623f462e" />
