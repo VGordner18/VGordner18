@@ -16,6 +16,7 @@
 <p>[] HTML</p>
 <p>[] CSS</p>
 <p>[] JavaScript</p>
+<p>[] SQL</p>
 
 <h2>Certificates</h2>
 <img width="553" height="432" alt="Your paragraph text" src="https://github.com/user-attachments/assets/19cf288c-e9fa-43e7-a38e-0785623f462e" />
